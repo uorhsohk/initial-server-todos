@@ -1,13 +1,13 @@
 # Initial Ubuntu 20.04 Server ToDos
 
-## Update/Upgrade All Packages
+## Update/Upgrade All Packages (run with sudo)
 
 ```
 apt update
 apt dist-upgrade
 ```
 
-## Create Another User w/ Root Privileges 
+## Create Another User w/ Root Privileges (run with sudo)
 
 ```
 adduser x
